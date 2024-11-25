@@ -1,2 +1,2 @@
 # Hello_JS_world
-Learning JavaScript
+Learning JavaScript and frameworks
